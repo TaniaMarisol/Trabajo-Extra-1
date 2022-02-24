@@ -4,7 +4,7 @@
 
 1.1. Objetivo General 
 
-Realizar una investigación pertinente sobre varios conceptos básicos que van a ser de gran utilidad al momento de cronstruir una fuente de alimentación básica cono trasformador para proceder a realizarizar la simuladión de la misma. 
+Realizar una investigación pertinente sobre varios conceptos básicos que van a ser de gran utilidad al momento de cronstruir una fuente de alimentación básica con transformador, mediante la aplicación de conocimientos previamente revisados en clase, lo cual permite desarrollar la destresa de diseño de un circuito. 
 
 1.2. Objetivos Específicos
 

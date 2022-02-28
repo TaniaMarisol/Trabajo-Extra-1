@@ -16,3 +16,14 @@ Armar la fuente de alimentación y verificar su funcionalidad.
 
 2. Marco teórico 
 
+![Untitled Diagram-Page-2 drawio](https://user-images.githubusercontent.com/94153604/155932296-70c500e7-039b-4157-94aa-3147bb267929.png)
+
+3. Requisitos Previos 
+
+![image](https://user-images.githubusercontent.com/94153604/155932430-4c9c00eb-69d5-48e4-a79f-a32299ba697b.png)
+
+![image](https://user-images.githubusercontent.com/94153604/155932503-b9f7a365-1d2d-474d-bdaf-2d81384f98d8.png)
+
+4. Materiales y equipios resqueridos 
+
+

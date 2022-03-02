@@ -26,7 +26,7 @@ Armar la fuente de alimentación y verificar su funcionalidad.
 
 4. Materiales y equipios resqueridos 
 
-![image](https://user-images.githubusercontent.com/94153604/156411086-18515c25-4704-4e36-b516-45350d14651a.png)
+![image](https://user-images.githubusercontent.com/94153604/156411226-b89a8e0f-36ce-4cd1-b2ff-724874b24313.png)
 
 5. Procedimiento 
 

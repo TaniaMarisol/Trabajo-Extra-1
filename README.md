@@ -24,6 +24,14 @@ Armar la fuente de alimentación y verificar su funcionalidad.
 
 ![image](https://user-images.githubusercontent.com/94153604/155932503-b9f7a365-1d2d-474d-bdaf-2d81384f98d8.png)
 
+![image](https://user-images.githubusercontent.com/94153604/156412332-f1adc4a6-046b-4db6-bd87-d052db550a83.png)
+
+![image](https://user-images.githubusercontent.com/94153604/156412476-74b2e44d-1d60-43db-b857-fbefd719780f.png)
+
+![image](https://user-images.githubusercontent.com/94153604/156412579-91bb3cfa-bc6d-457d-a64a-769d5a4878c9.png)
+
+![image](https://user-images.githubusercontent.com/94153604/156412716-45406ee0-f4db-44cc-b51d-022d84fe846e.png)
+
 4. Materiales y equipios resqueridos 
 
 ![image](https://user-images.githubusercontent.com/94153604/156411226-b89a8e0f-36ce-4cd1-b2ff-724874b24313.png)

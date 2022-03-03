@@ -56,4 +56,15 @@ El segundo elemento es el capacitor de 2200 μF  que del mismo modo se verifica 
 
 ![image](https://user-images.githubusercontent.com/94153604/156504615-90a5e639-96b5-4f1d-9adb-03a2aedaefb4.png)
 
-Despues se conecta la resistencia de 220 Ω
+Despues se conecta la resistencia de 270 Ω y el let . 
+
+![image](https://user-images.githubusercontent.com/94153604/156504919-fad8ecae-efb9-472e-b0a6-71ff8ed12ca8.png)
+
+Siguiendo el circuito armado en el programa se encuentra el ML317T el cual tiene tres entrasdas la primera es el int, la segunda el out y la tercera adj , para lo cual en el circuita la primara va a ser alimantada al positivo, en la segunda se encuentra conectada la resistencia y en la última entrada se encuentra el potenciometro y de igual manera la resistencia de 270 Ω. Uno de los diodos zener esta de manera paralela conectado con la salida uno y dos. 
+
+![image](https://user-images.githubusercontent.com/94153604/156505708-c92d0f26-a4a8-49b2-86b9-e8cc0364b6e6.png)
+
+El potenciometro tiene tres salidas la primera esta conectada con el ML317T la ultima salida adj, y las otras salidas del potenciometro se alimentan con el positivo . 
+
+![image](https://user-images.githubusercontent.com/94153604/156506015-6d91ce68-5668-49f8-ab1d-09c300ecbd00.png)
+

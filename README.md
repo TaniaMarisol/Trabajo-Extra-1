@@ -52,7 +52,7 @@ Para cada salida positiva y negativa se trabajo con las doshileras de la placa p
 
 ![image](https://user-images.githubusercontent.com/94153604/156504085-0f503dfd-3293-45ed-b28d-81fc8722264c.png)
 
-El segundo elemento es el capacitor de 2200 μF  que del mismo modo se verifica el positivo y negativo para poderlo conectar.
+El segundo elemento es el capacitor de 2200 μF  que del mismo modo se verifica el positivo y negativo para poderlo conectar 
 
 ![image](https://user-images.githubusercontent.com/94153604/156504615-90a5e639-96b5-4f1d-9adb-03a2aedaefb4.png)
 
@@ -67,4 +67,14 @@ Siguiendo el circuito armado en el programa se encuentra el ML317T el cual tiene
 El potenciometro tiene tres salidas la primera esta conectada con el ML317T la ultima salida adj, y las otras salidas del potenciometro se alimentan con el positivo . 
 
 ![image](https://user-images.githubusercontent.com/94153604/156506015-6d91ce68-5668-49f8-ab1d-09c300ecbd00.png)
+
+Se alimenta la siguiente parte del proto para seguir armando el circuito de ahí se va a conectar lo que es el diodo y el capacitor de 10 µF , de igual manera se los relaciona entre si con positivo y negativo, se los alimenta y por ultimo se puede utilizar otra resitencia y un let para observar como varia el voltaje a travez de potenciometro o solo con el uso de un multimentro obtener la medida del voltaje. 
+
+![image](https://user-images.githubusercontent.com/94153604/156506703-6210491a-193d-464b-a87c-467849a2895a.png)
+
+Este seria el circuito con el let al final 
+
+![image](https://user-images.githubusercontent.com/94153604/156506812-d7a14633-eb1d-4800-992b-4fd1bef78693.png)
+
+Trabajand con el multimetro. 
 

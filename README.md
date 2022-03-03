@@ -32,6 +32,8 @@ Armar la fuente de alimentación y verificar su funcionalidad.
 
 ![image](https://user-images.githubusercontent.com/94153604/156412716-45406ee0-f4db-44cc-b51d-022d84fe846e.png)
 
+![image](https://user-images.githubusercontent.com/94153604/156506961-dab5f0d8-4178-4ea0-88f1-d69a04f7d1e9.png)
+
 4. Materiales y equipios resqueridos 
 
 ![image](https://user-images.githubusercontent.com/94153604/156411226-b89a8e0f-36ce-4cd1-b2ff-724874b24313.png)
@@ -76,5 +78,14 @@ Este seria el circuito con el let al final
 
 ![image](https://user-images.githubusercontent.com/94153604/156506812-d7a14633-eb1d-4800-992b-4fd1bef78693.png)
 
-Trabajand con el multimetro. 
+Utilizando el multimentro.
+
+6. Video 
+
+7. Conclusiones 
+
+
+8. Bibliografía
+
+Chiikiy. (2 de Diciembre de 2013). Area Tecnologia. Obtenido de https://www.areatecnologia.com/electronica/fuente-alimentacion.html
 

@@ -84,6 +84,11 @@ Utilizando el multimentro.
 
 7. Conclusiones 
 
+La fuente de alimentanci es de gran utilidad puesto que transforma de corriente alterna a correinte continua , además de regular o cambiar la tensión de salida a valores determinados , por ello si se conecta a una fuente de alimentación de 120 V  en corriente alterna la transforma en el caso del circuito realizado seria que lo transforma a corriente continua con una salida de 12 V. Al utilizar el tranformador es para disminu la tensión antes de llegar al circuito. 
+
+Para realizar la fuente de alimentación se utilizó elementos ya conocidos como son los capacitores, las resitencias y el potenciomentro, sim embargo de igual manera se encuentra presente en el circuito lo que son los diodos zener que se lo utiliza como estabilizador, también hay lo que es un rectificador o también conocido como un puente de diodo, y por último el LM317T es un regulador positivo. 
+
+La fuente de alimentación armada puede variar el voltaje de salida por medio del potenciometro y para que sea más obserbable  se muestra de dos maneras uno con un let el cual si disminuye el volteje de salida el let tiene que disminuir su luminosisdad y si aumenta la luminosidad de igual manera y el otro modo de comprobarlo es por medio del uso del multimentro . 
 
 8. Bibliografía
 

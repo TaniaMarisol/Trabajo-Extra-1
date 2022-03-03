@@ -38,4 +38,22 @@ Armar la fuente de alimentación y verificar su funcionalidad.
 
 5. Procedimiento 
 
+![image](https://user-images.githubusercontent.com/94153604/156503604-07965193-e059-4609-b88b-75e06d6fa23a.png)
 
+El transformador que se utilizo para todo el circuito de de 12 a 24 voltios, pero en este caso se va a trabajar con 12 V y para ello se utilizara el cable de color rojo y azul, puesto que si se trabaja con el negro en vez del azul se estara utilizando los 24 V. 
+
+![image](https://user-images.githubusercontent.com/94153604/156503784-dfa73c1e-d7f5-41dc-a6fd-9f9cffd8760a.png)
+
+Se conceta el transformador en la entrada negativa y positiva y de ahì se va a proceder a armar el ciruito y para ello encontramos el primer elemento que es el rectificador en el cual tiene sus enntradas y salidas negativas y positivas. 
+
+![image](https://user-images.githubusercontent.com/94153604/156503979-868e52fa-5261-4b92-82c4-2749d373dadb.png)
+
+Para cada salida positiva y negativa se trabajo con las doshileras de la placa para trabajar de mejor manera.
+
+![image](https://user-images.githubusercontent.com/94153604/156504085-0f503dfd-3293-45ed-b28d-81fc8722264c.png)
+
+El segundo elemento es el capacitor de 2200 μF  que del mismo modo se verifica el positivo y negativo para poderlo conectar.
+
+![image](https://user-images.githubusercontent.com/94153604/156504615-90a5e639-96b5-4f1d-9adb-03a2aedaefb4.png)
+
+Despues se conecta la resistencia de 220 Ω

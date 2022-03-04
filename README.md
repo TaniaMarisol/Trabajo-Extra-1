@@ -82,6 +82,8 @@ Utilizando el multimentro.
 
 6. Video 
 
+https://youtu.be/KqVPnk5UU5U
+
 7. Conclusiones 
 
 La fuente de alimentanci es de gran utilidad puesto que transforma de corriente alterna a correinte continua , además de regular o cambiar la tensión de salida a valores determinados , por ello si se conecta a una fuente de alimentación de 120 V  en corriente alterna la transforma en el caso del circuito realizado seria que lo transforma a corriente continua con una salida de 12 V. Al utilizar el tranformador es para disminu la tensión antes de llegar al circuito. 
